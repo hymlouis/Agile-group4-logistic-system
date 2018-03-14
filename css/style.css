@@ -1,0 +1,53 @@
+
+html {
+	margin:0;
+	padding:0px;
+	background:#D3D3D3;
+	color:#000;
+}
+body {
+	min-width:1000px;
+}
+
+#wrap {
+	background:#FFFFFF;
+	margin:0 auto;
+	padding-top:4px;
+	width:1000px;
+	height:85px;
+}
+
+#header {
+	background:#FFFFFF;
+}
+
+#nav {
+	background:#FF4040;
+	padding:4px;	
+}
+
+#main {
+	background:#D3D3D3;
+}
+
+#cargotext{
+	
+	font-size:25px;
+	
+}
+
+#shippingtext{
+	
+	font-size:22px;
+	
+}
+
+input{
+	
+	width:400px;
+	margin: 0 auto;
+	padding: 5px;
+	
+}
+
+ 
